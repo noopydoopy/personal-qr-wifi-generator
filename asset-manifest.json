@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/personal-qr-wifi-generator/static/css/main.1af283b6.css",
+    "main.js": "/personal-qr-wifi-generator/static/js/main.46389075.js",
+    "static/js/787.c854665a.chunk.js": "/personal-qr-wifi-generator/static/js/787.c854665a.chunk.js",
+    "index.html": "/personal-qr-wifi-generator/index.html",
+    "main.1af283b6.css.map": "/personal-qr-wifi-generator/static/css/main.1af283b6.css.map",
+    "main.46389075.js.map": "/personal-qr-wifi-generator/static/js/main.46389075.js.map",
+    "787.c854665a.chunk.js.map": "/personal-qr-wifi-generator/static/js/787.c854665a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1af283b6.css",
+    "static/js/main.46389075.js"
+  ]
+}
